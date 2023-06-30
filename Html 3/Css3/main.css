@@ -1,0 +1,226 @@
+td
+{
+    text-align: center;
+}
+
+th 
+{
+    color: white;
+}
+
+.price
+{
+    font-size: 25px;
+    color: white;
+}
+
+table
+{
+    border-spacing: 0px;
+    width:100%;
+}
+
+tbody
+{
+    height: 330px;
+}
+
+table thead th:first-child 
+{
+    background-color:rgb(121,135,170) ;
+}
+
+table thead th:nth-child(2)
+{
+    background-color:rgb(79,98,141) ;
+}
+
+table thead th:nth-child(3)
+{
+    background-color: rgb(47,65,115);
+}
+
+table thead th:nth-child(4)
+{
+    background-color: rgb(22,41,84);
+}
+
+table thead th:last-child
+{
+    background-color: rgb(7,21,56);
+}
+
+.first td:first-child
+{
+    background-color: rgba(219,219,219,255);
+}
+
+.first td:nth-child(2)
+{
+    background-color:rgba(231,231,231,255);
+}
+
+.first td:nth-child(3)
+{
+    background-color: rgba(219,219,219,255);
+}
+
+.first td:nth-child(4)
+{
+    background-color:rgba(231,231,231,255);
+}
+
+.first td:last-child
+{
+    background-color: rgba(219,219,219,255);
+}
+
+.second td:first-child
+{
+    background-color:rgba(231,231,231,255);
+}
+
+.second td:nth-child(2)
+{
+    background-color:rgba(243,243,243,255);
+}
+
+.second td:nth-child(3)
+{
+    background-color:rgba(231,231,231,255);
+}
+
+.second td:nth-child(4)
+{
+    background-color:rgba(243,243,243,255);
+}
+
+.second td:last-child
+{
+    background-color:rgba(231,231,231,255);
+}
+
+.thirth td:first-child
+{
+    background-color: rgba(219,219,219,255);
+}
+
+.thirth td:nth-child(2)
+{
+    background-color:rgba(231,231,231,255);
+}
+
+.thirth td:nth-child(3)
+{
+    background-color: rgba(219,219,219,255);
+}
+
+.thirth td:nth-child(4)
+{
+    background-color:rgba(231,231,231,255);
+}
+
+.thirth td:last-child
+{
+    background-color: rgba(219,219,219,255);
+}
+
+.fourth td:first-child
+{
+    background-color:rgba(231,231,231,255);
+}
+
+.fourth td:nth-child(2)
+{
+    background-color:rgba(243,243,243,255);
+}
+
+.fourth td:nth-child(3)
+{
+    background-color:rgba(231,231,231,255);
+}
+
+.fourth td:nth-child(4)
+{
+    background-color:rgba(243,243,243,255);
+}
+
+.fourth td:last-child
+{
+    background-color:rgba(231,231,231,255);
+}
+
+.fifth td:first-child
+{
+    background-color: rgba(219,219,219,255);
+}
+
+.fifth td:nth-child(2)
+{
+    background-color:rgba(231,231,231,255);
+}
+
+.fifth td:nth-child(3)
+{
+    background-color: rgba(219,219,219,255);
+}
+
+.fifth td:nth-child(4)
+{
+    background-color:rgba(231,231,231,255);
+}
+
+.fifth td:last-child
+{
+    background-color: rgba(219,219,219,255);
+}
+
+.sixth td:first-child
+{
+    background-color:rgba(231,231,231,255);
+}
+
+.sixth td:nth-child(2)
+{
+    background-color:rgba(243,243,243,255);
+}
+
+.sixth td:nth-child(3)
+{
+    background-color:rgba(231,231,231,255);
+}
+
+.sixth td:nth-child(4)
+{
+    background-color:rgba(243,243,243,255);
+}
+
+.sixth td:last-child
+{
+    background-color:rgba(231,231,231,255);
+}
+
+.seventh td:first-child
+{
+    background-color: rgba(219,219,219,255);
+}
+
+.seventh td:nth-child(2)
+{
+    background-color:rgba(231,231,231,255);
+}
+
+.seventh td:nth-child(3)
+{
+    background-color: rgba(219,219,219,255);
+}
+
+.seventh td:nth-child(4)
+{
+    background-color:rgba(231,231,231,255);
+}
+
+.seventh td:last-child
+{
+    background-color: rgba(219,219,219,255);
+}
